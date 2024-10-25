@@ -1,4 +1,3 @@
-yaml
 logging:
   level:
     root: INFO
