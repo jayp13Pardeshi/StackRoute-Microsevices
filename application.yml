@@ -1,1 +1,4 @@
-Its application yml
+yaml
+logging:
+  level:
+    root: INFO
